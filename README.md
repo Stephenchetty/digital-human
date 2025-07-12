@@ -51,7 +51,7 @@ The Digital human blueprint has two components, the digital avatar deployment an
 * [Prerequisites](#prerequisites)
 * [Deployment](/deploy/)
 * [Customization](/customize/)
-* [Evaluation]((/evaluate/))
+* [Evaluation](/evaluate/)
 
 
 ## Prerequisites
