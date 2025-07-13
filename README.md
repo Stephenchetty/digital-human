@@ -78,7 +78,7 @@ NOTE:  If you are setting this up on AWS, GCP or Azure. Please checkout the GPU 
 
 #### System requirements
 
-The setup for tokkio requires two instances, a controller instance and an application instance, The controller instance doesn't require GPUs and it where we luanch the automation scripts from.Both require a Ubuntu 20.04 or 22.04 based machine, with sudo privileges for the user to run the automated deployment scripts. 
+The setup for tokkio requires two instances, a controller instance and an application instance, The controller instance doesn't require GPUs and it where we launch the automation scripts from.Both require a Ubuntu 20.04 or 22.04 based machine, with sudo privileges for the user to run the automated deployment scripts.
 
 NOTE:  In an upcoming step, you will use one click scripts in the Digital Avatar deployment instructions to set up everything else.
 
