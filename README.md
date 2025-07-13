@@ -93,3 +93,10 @@ Once you familiarize yourself with the blueprint, you may want to further custom
 
 #### System requirements
 Ubuntu 20.04 or 22.04 based machine, with sudo privileges
+
+### Lead Monitoring Script
+A helper script `monitor_leads.py` is included to watch a CSV file for new leads. Run it with:
+```bash
+python monitor_leads.py leads.csv --interval 10
+```
+
