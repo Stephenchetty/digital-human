@@ -37,7 +37,7 @@ To compare the different pipeline configurations, we will use the following metr
     Alternatively, you can also evaluate on your curated test set. Please make sure each line in the test set has the following format:
 
     ```
-    {"input": "Context: {GOLD_TRUTH_CONTEXT} \n\nQuestion: {USER_QUESTION}", "output": "{GOLD_TRUTH_ANSWER}"
+    {"input": "Context: {GOLD_TRUTH_CONTEXT} \n\nQuestion: {USER_QUESTION}", "output": "{GOLD_TRUTH_ANSWER}"}
     ```
 
 Now we are ready to run through the notebook `rag_evals.ipynb`!
